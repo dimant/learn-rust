@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{78C9907C-C22D-4F8D-B13A-49F213FF1631}") = "learn-rust", "learn-rust\learn-rust.rsproj", "{40249CDA-9CDB-4D77-AF44-8C45E2595491}"
 EndProject
+Project("{78C9907C-C22D-4F8D-B13A-49F213FF1631}") = "TypesAndVariables", "TypesAndVariables\TypesAndVariables.rsproj", "{58863473-063B-4DB2-9C4C-021771F54E60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|default = Debug|default
@@ -15,6 +17,10 @@ Global
 		{40249CDA-9CDB-4D77-AF44-8C45E2595491}.Debug|default.Build.0 = Debug|default
 		{40249CDA-9CDB-4D77-AF44-8C45E2595491}.Release|default.ActiveCfg = Release|default
 		{40249CDA-9CDB-4D77-AF44-8C45E2595491}.Release|default.Build.0 = Release|default
+		{58863473-063B-4DB2-9C4C-021771F54E60}.Debug|default.ActiveCfg = Debug|default
+		{58863473-063B-4DB2-9C4C-021771F54E60}.Debug|default.Build.0 = Debug|default
+		{58863473-063B-4DB2-9C4C-021771F54E60}.Release|default.ActiveCfg = Release|default
+		{58863473-063B-4DB2-9C4C-021771F54E60}.Release|default.Build.0 = Release|default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
